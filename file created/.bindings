@@ -1,0 +1,6 @@
+#This file is used by the JNDI FSContext.
+#Sat Aug 03 09:47:38 BOT 2019
+admin\ user/RefAddr/0/Content=AdministradorUser
+admin\ user/RefAddr/0/Encoding=String
+admin\ user/ClassName=jndiexample.User
+admin\ user/RefAddr/0/Type=name
